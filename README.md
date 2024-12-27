@@ -15,11 +15,12 @@ https://aiproxy.cloud/
 - [x] OpenAI
 - [x] ChatGLM 智谱AI
 - [x] 通义千问
-- [x] Google Gemini
+- [ ] Google Gemini
 - [x] DeepSeek
 - [x] Anthropic Claude
-- [ ] 腾讯混元
-- [ ] Moonshot AI
+- [x] 腾讯混元
+- [x] Moonshot AI
+- [x] Bytedance (豆包）
 
 # API 兼容
 
